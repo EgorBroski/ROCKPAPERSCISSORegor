@@ -7,12 +7,10 @@ v2=["Kivi","Käärid","Paber"]
 m=start()
 if m==1:
     bot_vs_bot(v1,v2)
-if m==1:
-    while 1:
-        pass
 elif m==2:
     while 1:
-       pass
+        pass
+
 while True:
     try:
         if read_key()=="k":
